@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# Xiaomi_Router_R1D_Hosts
-=======
 # Xiaomi_Router_R1D_Hosts
 
 ---
@@ -62,4 +59,3 @@ Copyright © 2008-2023 Powered by wlc743859910. Inc. All Rights Reserved. 我只
 </table>
 
 ---
->>>>>>> Stashed changes
