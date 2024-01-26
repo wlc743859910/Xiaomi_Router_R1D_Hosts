@@ -45,7 +45,7 @@
 13.107.213.40 vscode.dev
 140.82.113.21 education.github.com
 
-# Update url: https://github.com/wlc743859910/GitHub_Hosts/blob/master/GitHub_Hosts.txt
+# Update url: https://raw.github.ink/wlc743859910/GitHub_Hosts/master/GitHub_Hosts.txt
 # Star me: https://github.com/wlc743859910/GitHub_Hosts
 # GitHub_Hosts End
 
@@ -55,7 +55,7 @@
 
 
 
-# Update url: https://github.com/wlc743859910/Google_Hosts/blob/master/Google_Hosts.txt
+# Update url: https://raw.github.ink/wlc743859910/Google_Hosts/master/Google_Hosts.txt
 # Star me: https://github.com/wlc743859910/Google_Hosts
 # Google_Hosts End
 
@@ -98,7 +98,7 @@
 216.58.205.42 translate.googleapis.com
 216.58.208.106 translate.googleapis.com
 
-# Update url: https://github.com/wlc743859910/Google_Translate_Hosts/blob/master/Google_Translate_Hosts.txt
+# Update url: https://raw.github.ink/wlc743859910/Google_Translate_Hosts/master/Google_Translate_Hosts.txt
 # Star me: https://github.com/wlc743859910/Google_Translate_Hosts
 # Google_Translate_Hosts End
 
@@ -157,12 +157,12 @@
 192.168.31.80 download.wzsndgk.asia
 192.168.31.80 gravatar.wzsndgk.asia
 
-# Update url: https://github.com/wlc743859910/Local_Area_Network_Hosts/blob/master/Local_Area_Network_Hosts.txt
+# Update url: https://raw.github.ink/wlc743859910/Local_Area_Network_Hosts/master/Local_Area_Network_Hosts.txt
 # Star me: https://github.com/wlc743859910/Local_Area_Network_Hosts
 # Local_Area_Network_Hosts End
 
 ----- ----- ----- ----- -----
 
-# Update url: https://github.com/wlc743859910/Xiaomi_Router_R1D_Hosts/blob/master/Xiaomi_Router_R1D_Hosts.txt
+# Update url: https://raw.github.ink/wlc743859910/Xiaomi_Router_R1D_Hosts/master/Xiaomi_Router_R1D_Hosts.txt
 # Star me: https://github.com/wlc743859910/Xiaomi_Router_R1D_Hosts
 # Xiaomi_Router_R1D_Hosts.txt End
